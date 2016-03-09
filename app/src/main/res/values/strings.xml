@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pal</string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home">homeActivity</string>
+    <string name="title_activity_event">eventActivity</string>
+</resources>
